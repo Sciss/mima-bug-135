@@ -1,10 +1,10 @@
 name         := "mima-baz"
-version      := "0.1.0"
+version      := "0.1.1"
 organization := "de.sciss"
 scalaVersion := "2.11.8"
 
 libraryDependencies ++= Seq(
-  "de.sciss" %% "mima-foo" % "0.1.0",
+  "de.sciss" %% "mima-foo" % "0.1.1",
   "de.sciss" %% "mima-bar" % "0.1.0"
 )
 
